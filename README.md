@@ -5,6 +5,7 @@ win32 console app for  writing image on flash drive
 How to build
 ---------------------
 Using MInGW
+
 g++.exe main.cpp imager.cpp disk.cpp -o imager
 
 ---------------------
